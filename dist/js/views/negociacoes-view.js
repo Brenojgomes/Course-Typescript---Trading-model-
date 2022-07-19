@@ -25,4 +25,6 @@ export class NegociacoesView extends View {
 
         `;
     }
+    formatar(data) {
+    }
 }
